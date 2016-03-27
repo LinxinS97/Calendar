@@ -1,5 +1,5 @@
-# Elpis
-It's just some interesting codes~
+//# Elpis
+//It's just some interesting codes~
 #pragma once
 
 class Date {
